@@ -148,8 +148,6 @@
     <ClCompile Include="JCGamePacket.cpp" />
     <ClCompile Include="JCGameServer.cpp" />
     <ClCompile Include="JCMap.cpp" />
-    <ClCompile Include="JCPacket.cpp" />
-    <ClCompile Include="JCTcpServer.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="SerializeStream.cpp" />
     <ClCompile Include="TCPSocket.cpp" />
@@ -163,8 +161,6 @@
     <ClInclude Include="JCLock.h" />
     <ClInclude Include="JCMap.h" />
     <ClInclude Include="JCPacket.h" />
-    <ClInclude Include="JCTcpServer.h" />
-    <ClInclude Include="JCWorld.h" />
     <ClInclude Include="SerializeStream.h" />
     <ClInclude Include="TCPSocket.h" />
   </ItemGroup>

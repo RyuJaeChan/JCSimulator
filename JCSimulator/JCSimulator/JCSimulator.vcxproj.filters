@@ -42,12 +42,6 @@
     <ClCompile Include="IOCP.cpp">
       <Filter>Source Files\Network</Filter>
     </ClCompile>
-    <ClCompile Include="JCPacket.cpp">
-      <Filter>Source Files\Network</Filter>
-    </ClCompile>
-    <ClCompile Include="JCTcpServer.cpp">
-      <Filter>Source Files\Network</Filter>
-    </ClCompile>
     <ClCompile Include="SerializeStream.cpp">
       <Filter>Source Files\Network</Filter>
     </ClCompile>
@@ -68,9 +62,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="JCWorld.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="JCGameObject.h">
       <Filter>Header Files\GameObject</Filter>
     </ClInclude>
@@ -81,9 +72,6 @@
       <Filter>Header Files\Network</Filter>
     </ClInclude>
     <ClInclude Include="JCPacket.h">
-      <Filter>Header Files\Network</Filter>
-    </ClInclude>
-    <ClInclude Include="JCTcpServer.h">
       <Filter>Header Files\Network</Filter>
     </ClInclude>
     <ClInclude Include="SerializeStream.h">
